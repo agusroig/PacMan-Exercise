@@ -31,13 +31,17 @@
 </h4> 
 
 <hr> -->
-![project-image](images/PacMan1.png)
+<p align="center">
+  <img width="250" height="264" src="images/PacMan1.png">
+</p>
+
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-how-to-run">How to run</a> &#xa0; | &#xa0;
+    <a href="#calendar-roadmap-of-future-improvements">Roadmap</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agusroig" target="_blank">Author</a>
 </p>
@@ -46,7 +50,8 @@
 
 ## :dart: About ##
 
-This project was made for MITxPro web developer certification. This is a pacman animation that goes from left to right opening and shuting his mouth, and turns around when it hits the right or left edge of the window.  
+This project was made for MITxPro web developer certification. This is a pacman animation that goes from left to right opening and shuting his mouth, and turns around when it hits the right or left edge of the window./
+[live project](https://agusroig.github.io/PacMen-Exercise/)  
 
 ## :sparkles: Features ##
 
