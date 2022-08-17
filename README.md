@@ -50,13 +50,16 @@
 
 ## :dart: About ##
 
-This project was made for MITxPro web developer certification. This is a pacman animation that goes from left to right opening and shuting his mouth, and turns around when it hits the right or left edge of the window./
+This project was made for MITxPro web developer certification. This is a pacman animation that goes from left to right opening and shuting his mouth, and turns around when it hits the right or left edge of the window.
+
 [live project](https://agusroig.github.io/PacMen-Exercise/)  
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Animated Pacman/
-:heavy_check_mark: Open and shut his mouth/
+:heavy_check_mark: Animated Pacman
+
+:heavy_check_mark: Open and shut his mouth
+
 :heavy_check_mark: Turns around when hitting edges
 
 ## :rocket: Technologies ##
