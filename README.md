@@ -31,7 +31,7 @@
 </h4> 
 
 <hr> -->
-<p align="center">
+<p align="center" style="padding:15px;">
   <img width="250" height="264" src="images/PacMan1.png">
 </p>
 
