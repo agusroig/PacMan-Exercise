@@ -31,7 +31,7 @@
 </h4> 
 
 <hr> -->
-
+![project-image](images/PacMan1.png)
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
@@ -50,8 +50,8 @@ This project was made for MITxPro web developer certification. This is a pacman 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Animated Pacman
-:heavy_check_mark: Open and shut his mouth
+:heavy_check_mark: Animated Pacman/
+:heavy_check_mark: Open and shut his mouth/
 :heavy_check_mark: Turns around when hitting edges
 
 ## :rocket: Technologies ##
